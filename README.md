@@ -12,5 +12,5 @@ We have also simulated the gaant chart, which is used to represent CPU schedulin
 
 # Link 
 
-[CPU SCHEDULING Calculator ]()
+[CPU SCHEDULING Calculator ](https://stellar-parfait-27541c.netlify.app/)
 
